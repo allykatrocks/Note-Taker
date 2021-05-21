@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "homework-notetaker",
+			"path": "..\\..\\.."
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
