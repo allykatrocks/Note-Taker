@@ -20,5 +20,6 @@
   "bugs": {
     "url": "https://github.com/allykatrocks/homework-notetaker/issues"
   },
-  "homepage": "https://github.com/allykatrocks/homework-notetaker#readme"
+  "homepage": "https://github.com/allykatrocks/homework-notetaker#readme",
+  "engines": {"node": "14.16.1"}
 }
